@@ -1,0 +1,6 @@
+{
+  "name": "Sift",
+  "description": "A personal GTD (Getting Things Done) capture app. Its only job is to get a thought out of the user's head and into a trusted local store in under three seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
